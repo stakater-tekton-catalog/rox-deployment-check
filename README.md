@@ -1,2 +1,15 @@
-# rox-deployment-check
-A tekton task for rox-deployment-check
+# Stakater Cluster Task for Rox Deployment Check
+
+## Local Development
+
+### Install
+
+```
+tilt up
+```
+
+### Teardown
+
+```
+tilt down
+```
